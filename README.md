@@ -28,9 +28,9 @@ Skills with "*" are still under study.
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Visual designs
 
-![Project 1 Screenshot](project_1_screenshot_url)
+!([project_1_screenshot_url](https://drive.google.com/drive/folders/1iQdXqzmjlBVpihTcH-0BWKuaqTJDb2t4?usp=sharing))
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
